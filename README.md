@@ -1,16 +1,19 @@
 ### Hi there 👋
+This is the place where I opensource stuff and break things :rofl:
 
-<!--
-**xmge/xmge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning Rust/Kubernetes/Serverless
+- 💬 Ask me about anything related to Go/Java/Devops/Docker
+- 📫 How to reach me: [@xmge](https://xmge.top)
+- ⚡ Fun fact: I :heart: :dog:s
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+```text
+Go           14 hrs 20 mins  ████████████████████░░░░░   82.18 % 
+Bash         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+TOML         35 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Other        30 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Git Config   22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+```
+<!--END_SECTION:waka-->
