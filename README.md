@@ -4,8 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Rust/Kubernetes/Serverless
 - 💬 Ask me about anything related to Go/Java/Devops/Docker
-- 📫 How to reach me: [@xmge](https://xmge.top)
-- ⚡ Fun fact: I :heart: :dog:s
+- 📫 See my blog: [https://xmge.top](https://xmge.top)
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
